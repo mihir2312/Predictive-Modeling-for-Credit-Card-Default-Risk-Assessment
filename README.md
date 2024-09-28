@@ -144,4 +144,4 @@ Looking ahead, there are exciting prospects for embracing data-driven decision-m
 
 Thank you for your attention and engagement in this endeavor.
 
-**THANK YOU**
+### [View Full Presentation](https://github.com/mihir2312/Predictive-Modeling-for-Credit-Card-Default-Risk-Assessment/blob/main/Project_Presentation.pdf)
